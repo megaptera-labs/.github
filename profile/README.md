@@ -33,7 +33,9 @@ Several unrelated things share this name. To be explicit:
 
 ## Who we are
 
-**James Guo**, Founder, Strategy & Transformation. He led a three-year enterprise transformation as Head of Strategy at eBay ANZ. Before that he worked in corporate strategy and diligence at Bain & Company, across FMCG, financial services, technology and private equity. He invests across public and private markets, and built and runs DealOS. MPH, Yale University. BSE, Industrial & Operations Engineering, University of Michigan. BSE, Electrical & Computer Engineering, Shanghai Jiao Tong University. [LinkedIn](https://www.linkedin.com/in/jsguo/)
+**James Guo**, Founder, Strategy & Transformation. He led a three-year enterprise transformation as Head of Strategy at eBay ANZ. Before that he spent five years at Bain & Company in corporate strategy and diligence, across FMCG, financial services, technology and private equity. He invests across angel, private and public markets, and built and runs DealOS, an institutional deal-analysis terminal for private markets. He has backed Everlab, Puralink and PsiQuantum.
+
+James holds an MPH from Yale University. He also holds a BSE in Industrial & Operations Engineering from the University of Michigan, and a BSE in Electrical & Computer Engineering from Shanghai Jiao Tong University. [LinkedIn](https://www.linkedin.com/in/jsguo/)
 
 **Will Myer**, Strategic Advisor. He founded Archpoint Group, which connects private capital in Australia and Asia with offshore managers. He was Investment Director for family offices at Regal Partners. Before that he spent a decade at Bloomberg in Sydney, New York and London, latterly as Head of Analytics ANZ.
 
