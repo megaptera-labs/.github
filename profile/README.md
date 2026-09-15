@@ -28,7 +28,7 @@ Several unrelated things share this name. To be explicit:
 ## What we build
 
 - **DealOS** is an institutional deal-analysis terminal for private markets, built and run in-house. [dealos.megapteralabs.com](https://dealos.megapteralabs.com)
-- **Value Creation Screen** identifies where AI can improve business performance, and where to start.
+- **Value Creation Assessment** identifies where AI can improve business performance, and where to start.
 - **Service Transformation** works alongside client teams to change how the work gets done: how decisions get made, and how quickly they turn into action.
 
 ## Who we are
