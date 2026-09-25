@@ -1,6 +1,6 @@
 # Megaptera Labs
 
-**From AI ambition to AI in production.** We find where the work breaks, rebuild that workflow, and stay until your team runs it.
+**From AI ambition to AI in production to AI value creation.** We find where the work breaks, rebuild that workflow, and stay until your team runs it.
 
 Megaptera Labs is an AI transformation firm based in **Sydney, Australia**. Strategy and engineering sit in one senior team, so the people who scope the work are the people who build it.
 
