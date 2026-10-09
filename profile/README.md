@@ -1,8 +1,8 @@
 # Megaptera Labs
 
-**From AI ambition to AI in production to AI value creation.** We find where the work breaks, rebuild that workflow, and stay until your team runs it.
+**From AI ambition to AI in production to AI value creation.** We help private equity, institutional investors and enterprises earn a measurable return on strategic intelligence.
 
-Megaptera Labs is an AI transformation firm based in **Sydney, Australia**. Strategy and engineering sit in one senior team, so the people who scope the work are the people who build it.
+Megaptera Labs is an end-to-end AI and value creation firm based in **Sydney, Australia**. We find where AI generates the greatest economic return, redesign the workflows around it, and take it from concept to production, staying until the client's own team runs and scales it without us. The people who strategise it are the people who build it and transform it.
 
 [megapteralabs.com](https://megapteralabs.com)
 
@@ -27,7 +27,7 @@ Several unrelated things share this name. To be explicit:
 
 ## What we build
 
-- **DealOS** is an institutional deal-analysis terminal for private markets, built and run in-house. [dealos.megapteralabs.com](https://dealos.megapteralabs.com)
+- **DealOS** (Deal Operating System) is an institutional deal-analysis system for capital allocators, venture firms and family offices. Developed in-house from prototype to production, it brings greater rigour, speed and consistency to investment analysis. [dealos.megapteralabs.com](https://dealos.megapteralabs.com)
 - **Value Creation Assessment** identifies where AI can improve business performance, and where to start.
 - **Service Transformation** works alongside client teams to change how the work gets done: how decisions get made, and how quickly they turn into action.
 
