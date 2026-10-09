@@ -2,7 +2,7 @@
 
 **From AI ambition to AI in production to AI value creation.** We help private equity, institutional investors and enterprises earn a measurable return on strategic intelligence.
 
-Megaptera Labs is an end-to-end AI and value creation firm based in **Sydney, Australia**. We find where AI generates the greatest economic return, redesign the workflows around it, and take it from concept to production, staying until the client's own team runs and scales it without us. The people who strategise it are the people who build it and transform it.
+Megaptera Labs is an end-to-end strategic intelligence and value creation firm based in **Sydney, Australia**. We find where AI generates the greatest economic return, redesign the workflows around it, and take it from concept to production, staying until the client's own team runs and scales it without us. The people who strategise it are the people who build it and transform it.
 
 [megapteralabs.com](https://megapteralabs.com)
 
