@@ -10,7 +10,7 @@ Megaptera Labs is an end-to-end strategic intelligence and value creation firm b
 
 Several unrelated things share this name. To be explicit:
 
-- **Megaptera Labs** (megapteralabs.com) is an Australian end-to-end strategic intelligence and value creation firm. Legal entity MEGAPTERA LABS PTY LTD, a registered Australian private company incorporated 5 June 2026.
+- **Megaptera Labs** (megapteralabs.com) is an Australian end-to-end strategic intelligence and value creation firm. Legal entity MEGAPTERA LABS PTY LTD, a registered Australian private company.
 - We are **not** Megaptera Inc. / Megaptera Cybersecurity Inc. (megapteracyber.com), a separate US cybersecurity company.
 - We are **not** *Megaptera novaeangliae*, the humpback whale, though the firm is named after it. The whale migrates further each year than any other mammal, navigating open ocean with intelligence, endurance and precision.
 - We are unrelated to the `megaptera` R package for DNA sequence alignment.
