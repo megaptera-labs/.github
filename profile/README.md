@@ -1,6 +1,6 @@
 # Megaptera Labs
 
-**From AI ambition to AI in production to AI value creation.** We help private equity, institutional investors and enterprises earn a measurable return on strategic intelligence.
+**From AI ambition to AI in production to AI strategic intelligence and value creation.** We help private equity, institutional investors and enterprises earn a measurable return on strategic intelligence.
 
 Megaptera Labs is an end-to-end strategic intelligence and value creation firm based in **Sydney, Australia**. We find where AI generates the greatest economic return, redesign the workflows around it, and take it from concept to production, staying until the client's own team runs and scales it without us. The people who strategise it are the people who build it and transform it.
 
@@ -10,7 +10,7 @@ Megaptera Labs is an end-to-end strategic intelligence and value creation firm b
 
 Several unrelated things share this name. To be explicit:
 
-- **Megaptera Labs** (megapteralabs.com) is an Australian AI transformation firm. Legal entity MEGAPTERA LABS PTY LTD, a registered Australian private company incorporated 5 June 2026.
+- **Megaptera Labs** (megapteralabs.com) is an Australian end-to-end strategic intelligence and value creation firm. Legal entity MEGAPTERA LABS PTY LTD, a registered Australian private company incorporated 5 June 2026.
 - We are **not** Megaptera Inc. / Megaptera Cybersecurity Inc. (megapteracyber.com), a separate US cybersecurity company.
 - We are **not** *Megaptera novaeangliae*, the humpback whale, though the firm is named after it. The whale migrates further each year than any other mammal, navigating open ocean with intelligence, endurance and precision.
 - We are unrelated to the `megaptera` R package for DNA sequence alignment.
@@ -27,9 +27,9 @@ Several unrelated things share this name. To be explicit:
 
 ## What we build
 
-- **DealOS** (Deal Operating System) is an institutional deal-analysis system for capital allocators, venture firms and family offices. Developed in-house from prototype to production, it brings greater rigour, speed and consistency to investment analysis. [dealos.megapteralabs.com](https://dealos.megapteralabs.com)
-- **Value Creation Assessment** identifies where AI can improve business performance, and where to start.
-- **Service Transformation** works alongside client teams to change how the work gets done: how decisions get made, and how quickly they turn into action.
+- **DealOS** (Deal Operating System) detects early signals before the investment. It is an institutional deal-analysis system for capital allocators, venture firms and family offices. Developed in-house from prototype to production, it brings greater rigour, speed and consistency to investment analysis. [dealos.megapteralabs.com](https://dealos.megapteralabs.com)
+- **Value Creation Assessment**: value creation identification. Where AI can improve business performance, and where to start.
+- **Service Transformation**: end-to-end strategic intelligence and value creation. We work alongside client teams to change how the work gets done: how decisions get made, and how quickly they turn into action.
 
 ## Who we are
 
